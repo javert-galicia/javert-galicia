@@ -1,4 +1,4 @@
-# 👨‍💻 Javert Galicia | Chief Technology Officer (CTO)
+# 👨‍💻 Javert Galicia | Technology Consultant and Advisor
 
 [![Website](https://img.shields.io/badge/Website-jgalicia.com-blue)](https://www.jgalicia.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/javert-galicia)
@@ -6,10 +6,10 @@
 ## 🌟 About Me | Sobre Mí
 
 ### 🇺🇸 English
-I am a Strategic CTO specializing in technological transformation for businesses. With extensive experience in software development and technology strategy, I help organizations leverage technology to achieve their business goals, optimize operations, and drive innovation.
+I am a Strategic Technology Consultant and Advisor specializing in technological transformation for businesses. With extensive experience in software development and technology strategy, I help organizations leverage technology to achieve their business goals, optimize operations, and drive innovation.
 
 ### 🇪🇸 Español
-Soy un CTO Estratégico especializado en transformación tecnológica para empresas. Con amplia experiencia en desarrollo de software y estrategia tecnológica, ayudo a las organizaciones a aprovechar la tecnología para alcanzar sus objetivos de negocio, optimizar operaciones e impulsar la innovación.
+Soy un Consultor y Asesor Tecnológico Estratégico especializado en transformación tecnológica para empresas. Con amplia experiencia en desarrollo de software y estrategia tecnológica, ayudo a las organizaciones a aprovechar la tecnología para alcanzar sus objetivos de negocio, optimizar operaciones e impulsar la innovación.
 
 ## 🔧 Key Areas of Expertise | Áreas Clave de Experiencia
 
