@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier Galicia
 
-## 🎯 Administrador de Empresas | Inteligencia de Negocios | Entusiasta de la IA
+## 🎯 Administrador de Empresas | Consultoría de Empresas | Entusiasta de la IA
 
 Ubicado en Puebla, México, me especializo en optimizar operaciones empresariales, transformar datos en decisiones estratégicas e implementar soluciones inteligentes. Me apasiona la infraestructura de inteligencia artificial como motor de innovación y el desarrollo de experiencias digitales que conecten lógica con creatividad.
 
