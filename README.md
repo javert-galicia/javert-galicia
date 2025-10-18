@@ -1,47 +1,66 @@
 # 👋 Hola, soy Javier Galicia
 
-## 🎯 Administrador de Empresas | Consultoría de Empresas | Entusiasta de la IA
+🎯 **Consultor Estratégico | Desarrollador Fullstack | Arquitecto de Soluciones Inteligentes**
 
-Ubicado en Puebla, México, me especializo en optimizar operaciones empresariales, transformar datos en decisiones estratégicas e implementar soluciones inteligentes. Me apasiona la infraestructura de inteligencia artificial como motor de innovación y el desarrollo de experiencias digitales que conecten lógica con creatividad.
+Ubicado en Puebla, México, me especializo en optimizar operaciones empresariales, automatizar procesos y transformar datos en decisiones estratégicas. Combino auditoría inteligente, branding digital y desarrollo multiplataforma para crear soluciones que conectan lógica con creatividad.
 
 ---
 
-## 📚 Educación
+## 🧠 Experiencia Destacada
 
-### 🎓 Universidad del Valle de Puebla — 2020  
-**Licenciatura en Administración de Empresas**  
-Inspirado por mi familia dedicada a la seguridad privada y por la visión disruptiva de Steve Jobs. Aprendí el valor de la organización, el liderazgo y cómo transformar ideas en impacto real.
+- 🛍️ **Publicación y optimización en tiendas digitales**  
+  Microsoft Store | Play Store  
+  Estrategia de posicionamiento, cumplimiento técnico, localización multilingüe y pitches comerciales en español e inglés.
 
-### 📈 Udemy — 2025  
-**Data Science aplicado a Negocios**  
-Comencé motivado por el dinamismo del mercado bursátil. Descubrí una pasión por la estadística, la probabilidad y el machine learning como herramientas para predecir y entender patrones complejos.
+- 💳 **Integraciones Financieras y APIs**  
+  Mercado Pago | Meta API | Google API  
+  Implementación segura de pagos, autenticación, trazabilidad y automatización de flujos con APIs robustas.
 
-### 🖥 Udemy — 2025  
-**Laravel 11–12 con Tailwind.css y Vue 3**  
-Desarrollo dashboards dinámicos con estructura robusta y estilo moderno. Influenciado por la eficiencia de Ruby on Rails, la versatilidad de PHP y la fluidez del frontend con React.
+- 🧩 **Desarrollo Fullstack y Arquitectura de Datos**  
+  Laravel | MySQL | Vue 3 | Tailwind.css  
+  Migraciones avanzadas, dashboards dinámicos, persistencia offline y búsqueda inteligente.
 
-### 🎮 Udemy — 2025  
-**Unity Game Developer 2D (C#)**  
-Domino un lenguaje adaptable a Windows, explorando el desarrollo 2D y 3D responsivo para crear experiencias lúdicas y profesionales con propósito y diseño.
+- 🧠 **Inteligencia Artificial y Machine Learning**  
+  LLMs | Agentes inteligentes | Automatización adaptativa  
+  Diseño de sistemas que aprenden del usuario y responden con IA contextual.
+
+---
+
+## 📦 Proyectos Destacados
+
+- **Quinielaverso.com**  
+  Plataforma deportiva interactiva para predicción de resultados en fútbol mexicano.  
+  Integración con APIs, lógica de juego, autenticación y pagos con Mercado Pago.  
+  Branding digital, arquitectura escalable y experiencia de usuario gamificada.
+
+- **Admin Processes**  
+  App multiplataforma para gestión administrativa con localización avanzada y persistencia de estado.
+
+- **Simple CRM**  
+  CRM intuitivo para seguimiento de clientes e interacciones, con integración de pagos y notificaciones.
+
+- **Simple Chat AI**  
+  Chat inteligente con LLM local, desarrollado en React + Vite + TypeScript.
 
 ---
 
 ## 🛠 Tecnologías y Herramientas
 
-HTML5 | CSS3 / SASS | React | Laravel | Unity | Inteligencia Artificial | Machine Learning
+`Laravel` `Livewire` `Tailwind.css` `Flutter` `Unity` `React`  
+`MySQL` `Vite` `UWP` `Xbox SDK` `Meta API` `Google API` `Mercado Pago SDK`
 
-## 💡 Habilidades
-* Estrategia operativa
-* Inteligencia de negocios y análisis de datos
-* Desarrollo web fullstack
-* Aplicaciones con machine learning
-* Diseño y programación de experiencias interactivas
+---
 
-## 🎮 Hobbies e Inspiración
-* Programación y exploración de IA
-* Ajedrez ♟️ y Dungeons & Dragons 🐉
-* Videojuegos en Xbox 🎮
-* Cine, anime y música como motores creativos
-* Estrategia + pasión por el conocimiento 💡
+## 🎮 Inspiración y Estilo
 
-"Transformo ideas en impacto real."
+Me inspiran el ajedrez, el anime, los videojuegos y la música como motores creativos. Creo en el poder de la estrategia, la automatización y el diseño funcional para transformar ideas en impacto real.
+
+> “Transformo ideas en impacto real.”
+
+---
+
+📫 **Contacto**  
+🌐 [jgalicia.com](https://www.jgalicia.com)  
+📧 javiergaliciaglz@gmail.com  
+🐦 [@javert_galicia](https://twitter.com/javert_galicia)  
+📍 Puebla, México
